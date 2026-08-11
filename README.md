@@ -29,7 +29,7 @@ Conditionals, loops, and decision logic:
 - `Evenodd.java`, `PostiveNegative.java` — even/odd and sign checks
 - `Greatesnum.java` — greatest of three numbers
 - `Leapyear.java` — leap year check
-- `Checkprimenum.java` — prime number check
+- `Checkprimenum.java`, `Checkprime.java` — prime number check (fixed value vs. user input)
 - `decision.java` — age-based eligibility logic (`if`/`else if` chain)
 - `While.java`, `Dowhile.java`, `Infinitewhile.java`, `Nestedfor.java` — loop variants
 
@@ -62,5 +62,4 @@ java Loops.Factorial
 
 ## 🧹 Notes
 
-- `introduction/Conditions/Checkprime.java` is currently an empty class — a work in progress.
-- `Evenodd.class` and `desktop.ini` are stray/local files that probably shouldn't be tracked; worth adding a `.gitignore` for `*.class` and `desktop.ini`.
+- A `.gitignore` now excludes compiled `.class` files and `desktop.ini` from tracking.
