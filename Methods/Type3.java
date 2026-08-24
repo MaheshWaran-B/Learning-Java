@@ -1,5 +1,5 @@
 package Methods;
-
+// without return type && with arguments
 public class Type3 {
     public void addvalue(int a, int b){
         int sum = a+b;

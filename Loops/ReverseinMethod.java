@@ -1,4 +1,4 @@
-package Methods;
+package Loops;
 
 public class ReverseinMethod {
     public int Reversenum(int n){

@@ -7,7 +7,7 @@ public class While {
         int count = 0;
         while(num>=n)
         {
-            count++;
+           count++;
             num = num/n;
         
         }
