@@ -1,0 +1,10 @@
+# Compiled Java classes
+*.class
+
+# Windows folder metadata
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.iml
