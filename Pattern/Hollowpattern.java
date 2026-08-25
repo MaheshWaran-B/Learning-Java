@@ -1,4 +1,4 @@
-package Methods.Pattern;
+package Pattern;
 public class Hollowpattern{
     public static void main(String[]args){
         int n = 5;

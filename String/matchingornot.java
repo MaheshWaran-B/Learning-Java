@@ -1,4 +1,4 @@
-package Methods.String;
+package String;
 
 public class matchingornot {
     public static void main(String[]args){

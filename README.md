@@ -9,8 +9,11 @@ Learning-Java/
 ├── introduction/
 │   ├── Basic/           # I/O, arithmetic, string formatting
 │   └── Conditions/      # if-else, switch, loops, decision-making
-├── Loops/                # for/while practice — factorial, Fibonacci, digit reversal
-└── Methods/              # the four method signatures (return type × arguments)
+├── Loops/               # for/while practice — factorial, Fibonacci, digit reversal
+├── Methods/             # the four method signatures (return type × arguments)
+├── Array/               # arrays, collections (List/Set/Map) + practice problems
+├── String/              # string manipulation practice
+└── Pattern/             # pyramid & pattern printing
 ```
 
 ## 📚 What's Covered
@@ -47,7 +50,31 @@ The four method signatures, each demonstrated separately:
 - `Type2.java` — return type, with arguments
 - `Type3.java` — no return type, with arguments
 - `Type4.java` — no return type, no arguments
-- `ReverseinMethod.java` — digit reversal refactored into a reusable method
+
+### `Array/`
+Array operations and the collections framework:
+- `Sumofarray.java`, `findmin.java`, `Findmaxmin.java` — sum, min and max of an array
+- `Arrayreverse.java` — reversing an array
+- `Checkascend.java` — checking if an array is sorted ascending
+- `Occurence.java` — counting occurrences of elements
+- `Listarray.java`, `HashsetIntro.java`, `HashmapIntro.java` — ArrayList, HashSet and HashMap basics
+- `Example.java`, `Example2.java` — assorted array examples
+- `Practice/Anagram.java`, `Practice/Strobogrammatic.java` — practice problems
+
+### `String/`
+String handling:
+- `Creationofstring.java` — ways to create strings
+- `Reversestring.java` — reversing a string
+- `CountVowels.java` — counting vowels
+- `Duplicatestring.java` — finding duplicate characters
+- `RemoveSpace.java` — removing spaces
+- `matchingornot.java` — string comparison
+
+### `Pattern/`
+Pattern printing:
+- `Halfpyramid.java` — half pyramid
+- `Reversepyramid.java` — inverted pyramid
+- `Hollowpattern.java` — hollow patterns
 
 ## 🚀 Running a Program
 

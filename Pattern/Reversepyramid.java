@@ -1,4 +1,4 @@
-package Methods.Pattern;
+package Pattern;
 
 public class Reversepyramid {
     public static void main(String[]args){

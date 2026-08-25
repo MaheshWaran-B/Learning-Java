@@ -1,5 +1,5 @@
 
-package Methods.Array.Practice;
+package Array.Practice;
 import java.util.HashMap;
 
 public class Strobogrammatic {

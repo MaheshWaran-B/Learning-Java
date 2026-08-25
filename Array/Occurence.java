@@ -1,4 +1,4 @@
-package Methods.Array;
+package Array;
 public class Occurence {
     public static void main(String[]args){
         int num[]= {12,3,12,12,33,12};
