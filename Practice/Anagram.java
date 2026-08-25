@@ -1,4 +1,4 @@
-package Array.Practice;
+package Practice;
 import java.util.HashMap;
 public class Anagram {
     public static boolean isAnagram(String s,String t){

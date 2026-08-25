@@ -11,9 +11,10 @@ Learning-Java/
 │   └── Conditions/      # if-else, switch, loops, decision-making
 ├── Loops/               # for/while practice — factorial, Fibonacci, digit reversal
 ├── Methods/             # the four method signatures (return type × arguments)
-├── Array/               # arrays, collections (List/Set/Map) + practice problems
+├── Array/               # arrays and collections (List/Set/Map)
 ├── String/              # string manipulation practice
-└── Pattern/             # pyramid & pattern printing
+├── Pattern/             # pyramid & pattern printing
+└── Practice/            # practice problems (Anagram, Strobogrammatic)
 ```
 
 ## 📚 What's Covered
@@ -59,7 +60,11 @@ Array operations and the collections framework:
 - `Occurence.java` — counting occurrences of elements
 - `Listarray.java`, `HashsetIntro.java`, `HashmapIntro.java` — ArrayList, HashSet and HashMap basics
 - `Example.java`, `Example2.java` — assorted array examples
-- `Practice/Anagram.java`, `Practice/Strobogrammatic.java` — practice problems
+
+### `Practice/`
+Practice problems:
+- `Anagram.java` — checking if two strings are anagrams
+- `Strobogrammatic.java` — strobogrammatic number check
 
 ### `String/`
 String handling:
