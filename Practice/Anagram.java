@@ -30,4 +30,11 @@ public class Anagram {
        }
        return true;
     }
-  
+    public static void main(String[]args){
+        String s = "cat";
+        String t = "rat";
+        boolean res = isAnagram(s,t);
+        System.out.println(res);
+    }
+}
+
